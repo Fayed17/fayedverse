@@ -9,7 +9,7 @@ const Portfolio = () => {
     <MainLayout>
       <section className="bg-gradient-to-b from-slate-50 to-white py-16">
         <div className="portfolio-container text-center">
-          <h1 className="text-4xl font-bold mb-4">My Portfolio</h1>
+          <h1 className="text-4xl font-bold mb-4">My Designs</h1>
           <p className="text-slate-600 max-w-2xl mx-auto mb-8">
             Explore my work across different design platforms, from wireframes to fully functional websites.
           </p>
