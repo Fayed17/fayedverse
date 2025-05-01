@@ -20,7 +20,7 @@ const Index = () => {
               </p>
               <div className="flex flex-wrap gap-4">
                 <Button asChild className="bg-navy hover:bg-navy/90" size="lg">
-                  <Link to="/portfolio">View Portfolio</Link>
+                  <Link to="/portfolio">Download CV</Link>
                 </Button>
                 <Button asChild variant="outline" size="lg">
                   <Link to="/about">About Me</Link>

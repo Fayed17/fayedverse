@@ -13,7 +13,7 @@ export interface Project {
 export const projects: Project[] = [
   {
     id: '1',
-    title: 'Finance Dashboard UI',
+    title: 'Ecommerce',
     description: 'A comprehensive financial dashboard with dark mode and responsive layouts.',
     type: 'figma',
     thumbnail: 'https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?auto=format&fit=crop&w=600&h=350',
