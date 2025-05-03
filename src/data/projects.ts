@@ -16,7 +16,7 @@ export const projects: Project[] = [
     title: 'Ecommerce',
     description: 'A comprehensive financial dashboard with dark mode and responsive layouts.',
     type: 'figma',
-    thumbnail: 'https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?auto=format&fit=crop&w=600&h=350',
+    thumbnail: '/images/thumbnail/pizza.png',
     images: [
       'https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?auto=format&fit=crop&w=1200&h=800',
       'https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=1200&h=800',
@@ -34,9 +34,9 @@ export const projects: Project[] = [
     title: 'E-commerce Mobile App',
     description: 'A modern e-commerce application with smooth animations and micro-interactions.',
     type: 'figma',
-    thumbnail: 'https://images.unsplash.com/photo-1481487196290-c152efe083f5?auto=format&fit=crop&w=600&h=350',
+    thumbnail: '/images/thumbnail/pizza.png',
     images: [
-      'https://images.unsplash.com/photo-1481487196290-c152efe083f5?auto=format&fit=crop&w=1200&h=800',
+      '/images/thumbnail/pizza.png',
       'https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=1200&h=800',
     ],
     keyFeatures: [
