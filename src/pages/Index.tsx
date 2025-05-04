@@ -105,7 +105,7 @@ const Index = () => {
                 <div className="bg-white rounded-lg overflow-hidden shadow-md hover:shadow-xl transition-shadow">
                   <div className="aspect-video bg-slate-200 relative overflow-hidden">
                     <img 
-                      src={`/images/thumbnail/pizza.png`} 
+                      src={`/images/thumbnail/e-commerce-tech.png`} 
                       alt={`Featured project ${project}`}
                       className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
                     />

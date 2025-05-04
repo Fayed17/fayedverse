@@ -131,8 +131,9 @@ const ProjectDetail = () => {
               </div>
               
               <Button className="w-full bg-navy hover:bg-navy/90">
-                Request Similar Project
+                 <a href="https://www.behance.net/et191053fayed">View Project</a>
               </Button>
+            
             </div>
           </div>
         </div>
